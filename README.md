@@ -23,6 +23,7 @@ $ export PRESTO_HOME=/path/to/presto
 
 ## 3. Remove presto-doc
 
+Due to incompatibility with PPC64 architecture. The detail is written [here](https://github.com/prestodb/presto/issues/3849).
 ```
 $ cd /path/to/presto
 $ vi pom.xml
