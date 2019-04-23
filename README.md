@@ -1,7 +1,7 @@
 presto-build
 ===
 
-presto-build is a docker container which includes all prerequisites for building [Presto](https://prestodb.io/).
+presto-build is a docker container which includes all prerequisites for building [Presto](https://prestosql.io/).
 
 # Why presto-build?
 
